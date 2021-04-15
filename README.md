@@ -9,7 +9,7 @@ My name is Heydrigh Ribeiro. I work as a Web developer at Luby software.
 
 ### Languages & Tools 🛠  
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&color=green)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&color=green)&nbsp;  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&color=orange)&nbsp;![Adonis](https://img.shields.io/badge/-Adonis-05122A?style=flat&color=orange)&nbsp;![Node](https://img.shields.io/badge/-Node-05122A?style=flat&color=orange)&nbsp;![Adonis](https://img.shields.io/badge/-Adonis-05122A?style=flat&color=orange)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&color=orange)&nbsp;  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&color=orange)&nbsp;![Adonis](https://img.shields.io/badge/-Adonis-05122A?style=flat&color=orange)&nbsp;![Node](https://img.shields.io/badge/-Node-05122A?style=flat&color=orange)&nbsp;![ReactNative](https://img.shields.io/badge/-Adonis-05122A?style=flat&color=orange)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&color=orange)&nbsp;  
 
 
 ### Analytics ⚙️
