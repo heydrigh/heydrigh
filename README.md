@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Heydrigh Ribeiro. I work as a Web developer at Luby software.
+My name is Heydrigh Ribeiro. I work as a Web developer at Grupo Ser - Beduka.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=heydrigh&repo=heydrigh&countColorcountColor)
 
