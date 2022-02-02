@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Heydrigh Ribeiro. I work as a Web developer.
+My name is Heydrigh Ribeiro. I work as a fullStack developer.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=heydrigh&repo=heydrigh&countColorcountColor)
 
