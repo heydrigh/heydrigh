@@ -34,9 +34,7 @@ If you're looking for a dedicated and collaborative developer who is passionate 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heydrigh&layout=compact&count_private=true" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=heydrigh&count_private=true&show_icons=true" alt="GitHub Statistics" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heydrigh&hide_border=true" alt="GitHub Contributions" />
 </p>
