@@ -39,11 +39,6 @@ If you're looking for a dedicated and collaborative developer who is passionate 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heydrigh&hide_border=true" alt="GitHub Contributions" />
 </p>
 
-## 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heydrigh&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
-</p>
-
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/heydrigh/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
